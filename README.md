@@ -25,7 +25,7 @@ Tasks to be done are:
 			
 			
 2. Create Model for Customer and Controllers that support following features:
-    :white_check_mark Login
+    - :white_check_mark: Login
     - [x] Logout 
     - [x] Message to other Customer(s)
     - [x] View own chat history
