@@ -26,26 +26,26 @@ Tasks to be done are:
 			
 2. Create Model for Customer and Controllers that support following features:
     - :white_check_mark: Login
-    - [x] Logout 
-    - [x] Message to other Customer(s)
-    - [x] View own chat history
-    - [x] Can report other Customer(s) or own feedback/bug to Staff
+    - :white_check_mark: Logout 
+    - :white_check_mark:Message to other Customer(s)
+    - :white_check_mark: View own chat history
+    - :white_check_mark: Can report other Customer(s) or own feedback/bug to Staff
 
 3. Create Model for Staff and Controllers that support following features:
-    - [x] Login
-    - [x] Logout
-    - [x] View all chat history 
-    - [x] View all Customer + deleted Customer
-    - [x] Message to other Staff(s)
-    - [x] Message to other Customer(s)
-    - [x] Delete Customer(s)
+    - :white_check_mark: Login
+    - :white_check_mark: Logout
+    - :white_check_mark: View all chat history 
+    - :white_check_mark: View all Customer + deleted Customer
+    - :white_check_mark: Message to other Staff(s)
+    - :white_check_mark: Message to other Customer(s)
+    - :white_check_mark: Delete Customer(s)
 
-4. [x] Auth on each page or feature
+4. :white_check_mark: Auth on each page or feature
 
 5. You can create own Model and controllers to support point no 2 & 3, for example Model "Messages" to support Customer and Staff. <br>
-    You must not use any other packages / vendors, only from the composer or auth related are allowed which means only Laravel, Passport and JWT only.
+    You must not use any other packages / vendors, only from the composer or auth related are allowed which means only Laravel, Passport and JWT only. :white_check_mark:
 
-6. You are only tasked to work on the back-end side, so view is not important. Use postman for the documentation as for the testing you are allowed to use phpunittest or any php/Laravel testing.
+6. You are only tasked to work on the back-end side, so view is not important. Use postman for the documentation as for the testing you are allowed to use phpunittest or any php/Laravel testing.  :white_check_mark:
 
 
 #Step To Produce
