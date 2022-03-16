@@ -1,4 +1,4 @@
-<h1> Laravel Back End Keda Interview Manual</h1>
+<h1> Laravel Back End Interview Manual</h1>
 ## Guidelines to do the project's
 There are several prerequisite apps/packages before making this project, such as: <br>
 1. PHP                  : version that is used on this project is PHP 7.4.14 <br>
@@ -25,7 +25,7 @@ Tasks to be done are:
 			
 			
 2. Create Model for Customer and Controllers that support following features:
-    - [x] Login
+    - :white_check_mark Login
     - [x] Logout 
     - [x] Message to other Customer(s)
     - [x] View own chat history
