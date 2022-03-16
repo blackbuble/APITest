@@ -6,7 +6,7 @@ There are several prerequisite apps/packages before making this project, such as
 3. PostgreSQL           : version that is used on this project is postgres (PostgreSQL) 13.1 <br>
 
 Next steps are:
-1. From terminal run the command to clone repo : "https://github.com/ivanrivaldi191/keda_interview.git"
+1. From terminal run the command to clone repo
 2. Move to the cloned repo
 3. Composer install or update
 4. Open the project with a text editor Identify 
@@ -25,22 +25,22 @@ Tasks to be done are:
 			
 			
 2. Create Model for Customer and Controllers that support following features:
-    - Login +done
-    - Logout +done
-    - Message to other Customer(s) +done
-    - View own chat history +done
-    - Can report other Customer(s) or own feedback/bug to Staff +done
+    - [x] Login
+    - [x] Logout 
+    - [x] Message to other Customer(s)
+    - [x] View own chat history
+    - [x] Can report other Customer(s) or own feedback/bug to Staff
 
 3. Create Model for Staff and Controllers that support following features:
-    - Login +done
-    - Logout +done
-    - View all chat history +done
-    - View all Customer + deleted Customer +done
-    - Message to other Staff(s) +done
-    - Message to other Customer(s) +done
-    - Delete Customer(s) +done
+    - [x] Login
+    - [x] Logout
+    - [x] View all chat history 
+    - [x] View all Customer + deleted Customer
+    - [x] Message to other Staff(s)
+    - [x] Message to other Customer(s)
+    - [x] Delete Customer(s)
 
-4. Auth on each page or feature
+4. [x] Auth on each page or feature
 
 5. You can create own Model and controllers to support point no 2 & 3, for example Model "Messages" to support Customer and Staff. <br>
     You must not use any other packages / vendors, only from the composer or auth related are allowed which means only Laravel, Passport and JWT only.
